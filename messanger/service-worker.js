@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VueJS-messanger/precache-manifest.2b6afda24d03a89fb8ca186f491b2c5e.js"
+  "/messanger/precache-manifest.11c4510c0b5976c714b438075aa0b231.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "my-messanger"});
