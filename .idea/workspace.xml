@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b4e58e5-23b0-4f21-b9b0-31d5ea259594" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/about.95ee137d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.17077c7f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/about.96742880.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/about.96742880.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.e6933ba6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.e6933ba6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.5c9e8eb4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.5c9e8eb4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.2ea8ddf760fd7a01b7b2652ffa068782.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n9ru09L4IgXqu5BPmzRZyDdH1K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4e58e5-23b0-4f21-b9b0-31d5ea259594" name="Default Changelist" comment="" />
+      <created>1610813366848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610813366848</updated>
+    </task>
+    <servers />
+  </component>
+</project>
