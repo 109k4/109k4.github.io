@@ -1,13 +1,23 @@
 const pulser = document.querySelector('.pulser')
 const input = document.querySelector('.friquency')
 const button = document.querySelector('.changeButton')
+const buttonsBlock = document.querySelector('.buttons')
+const clerButton = document.querySelector('.clearButton')
 const startButton = document.querySelector('.start')
 
 let fric = Number(input.value)
 let start = false
 
+
+input.addEventListener('input', function(){
+  buttonsBlock.style.display = 'block'
+})
 button.addEventListener('click', function(){
   changeFric()
+})
+clerButton.addEventListener('click', function(){
+  buttonsBlock.style.display = 'none'
+  input.value = ''
 })
 startButton.addEventListener('click', ()=>{
   startStop()
@@ -28,6 +38,7 @@ function pulsation(){
 
 function changeFric(){
   fric = Number(input.value)
+  buttonsBlock.style.display = 'none'
 }
 
 function startStop(){

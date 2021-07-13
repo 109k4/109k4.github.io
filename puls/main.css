@@ -7,6 +7,14 @@ body{
 }
 button{
   cursor: pointer;
+  font-weight: bold;
+}
+
+.controlers__fric{
+  display: flex;
+  align-items: center;
+
+  margin-top: 20px;
 }
 
 .pulser{
@@ -24,9 +32,6 @@ button{
   background-color: rgb(255, 65, 65);
 }
 
-input{
-  margin-top: 20px;
-}
 .controlers{
   position: fixed;
   top: 30px;
@@ -47,4 +52,18 @@ input{
 }
 .start.active{
   background-color: rgb(255, 65, 65);
+}
+
+.changeButton{
+  background-color: rgb(57, 230, 57);
+}
+
+.clearButton{
+  background-color: rgb(255, 65, 65);
+}
+
+.buttons{
+  display: none;
+
+  margin-left: 15px;
 }
