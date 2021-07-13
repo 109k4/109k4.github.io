@@ -1,0 +1,50 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  height: 100vh;
+}
+button{
+  cursor: pointer;
+}
+
+.pulser{
+  width: 50px;
+  height: 50px;
+
+  border-radius: 50%;
+
+  background-color: rgb(57, 230, 57);
+}
+.pulser.active{
+  width: 70px;
+  height: 70px;
+
+  background-color: rgb(255, 65, 65);
+}
+
+input{
+  margin-top: 20px;
+}
+.controlers{
+  position: fixed;
+  top: 30px;
+
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.start{
+  width: 300px;
+  height: 50px;
+
+  color: white;
+  font-weight: bold;
+
+  background-color: rgb(57, 230, 57);
+}
+.start.active{
+  background-color: rgb(255, 65, 65);
+}
